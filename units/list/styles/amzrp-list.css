@@ -1,0 +1,60 @@
+/**
+ * Amazon Related Products
+ * Author: Alain Gonzalez
+ * Unit: List
+ * Plugin URI: http://web-argument.com/amazon-related-products-wordpress-plugin/
+*/
+
+.amzrp-list-cont h3 {	
+   padding-bottom: 20px;
+}
+
+.amzrp-list-title {
+	font-weight:bold;
+}
+
+.amzrp-list {
+	clear:both;
+	overflow:hidden;	
+	margin-bottom:15px;
+}
+
+.amzrp-list-thumb-cont {
+	float:left;
+	width:80px;
+	margin-right:20px;
+	text-align:center;
+	height: 100px;
+}
+
+.amzrp-disclosure{
+	position:absolute;
+	display:none;
+    font-size: .8em;
+    border: solid 1px #ccc;
+    padding: 10px;
+    background-color: #fcfcfc;;
+    width: 250px;
+}
+
+.amzrp-red {
+   color: #900;
+}
+
+.amzrp-lt {
+   text-decoration:line-through;
+}
+
+.amzrp-disclosure-cont{
+   font-size: .8em;
+}
+
+.close-disclosure {
+	position: absolute;
+	right: 10px;
+}
+
+.amzrp-price-headline {
+	font-weight:bold;	
+}
+	

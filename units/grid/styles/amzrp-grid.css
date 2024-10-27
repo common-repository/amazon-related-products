@@ -1,0 +1,73 @@
+/**
+ * Amazon Related Products
+ * Author: Alain Gonzalez
+ * Unit: Grid
+ * Plugin URI: http://web-argument.com/amazon-related-products-wordpress-plugin/
+*/
+
+
+.amzrp-grids {
+	clear:both;
+	overflow:hidden;
+}
+
+.amzrp-grid-cont {
+	clear:both;
+	overflow:hidden;
+}
+
+.amzrp-grid {
+	float: left;
+	width: 160px;
+	margin: 10px;
+	font-size: 0.9em;
+	height: 390px;	
+}
+
+.amzrp-grid-title {
+	font-weight:bold;
+}
+
+.amzrp-grid h3 {	
+   padding-bottom: 10px;
+}
+
+.amzrp-grid-thumb-cont {
+	text-align:center;
+	width:100%;
+	display:block;
+	clear:both;
+	margin-bottom:5px;
+}
+
+.amzrp-disclosure{
+	position:absolute;
+	display:none;
+    font-size: .8em;
+    border: solid 1px #ccc;
+    padding: 10px;
+    background-color: #fcfcfc;;
+    width: 250px;
+}
+
+.amzrp-red {
+   color: #900;
+}
+
+.amzrp-lt {
+   text-decoration:line-through;
+}
+
+.amzrp-disclosure-cont{
+   font-size: .8em;
+}
+
+.close-disclosure {
+	position: absolute;
+	right: 10px;
+}
+
+.amzrp-price-headline {
+	font-weight:bold;	
+}
+	
